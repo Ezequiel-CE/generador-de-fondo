@@ -1,2 +1,2 @@
 # generador-de-fondo
-un generador de fondo
+Un generador de fondos hecho con js basico
